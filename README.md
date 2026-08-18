@@ -7,8 +7,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.E.-CSE_(AI_%26_ML)-141414?style=for-the-badge&labelColor=000000&color=B8860B" />
-<img src="https://img.shields.io/badge/Saranathan_College_of_Engineering-141414?style=for-the-badge&labelColor=000000&color=8A6D1E" />
-<img src="https://img.shields.io/badge/Tiruchirappalli,_India-141414?style=for-the-badge&labelColor=000000&color=8A6D1E" />
 
 <br/><br/>
 
