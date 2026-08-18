@@ -11,7 +11,6 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/adithyanatarajan07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:adithyamsss2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ADITHYA-1908"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -118,7 +117,6 @@ goal:
 ### Connect With Me
 
 <a href="https://www.linkedin.com/in/adithyanatarajan07"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000" /></a>
-<a href="mailto:adithyamsss2006@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" /></a>
 <a href="https://github.com/ADITHYA-1908"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" /></a>
 
 <br/><br/>
