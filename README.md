@@ -57,11 +57,6 @@ My current goal is to grow as a **Software Developer** and build strong real-wor
 
 ## `03` Featured Projects
 
-### Hackwell — Hackathon Student Dashboard
-Student-facing hackathon management module focused on team details, project submissions, room and jury allocation, schedules, announcements, feedback, results and certificates.
-
-[`View Repository`](https://github.com/ADITHYA-1908/Hackwell)
-
 ### Research Conference Management System — RCMS
 A conference management system built around a structured Java/Spring Boot architecture for managing conference workflows and user roles.
 
