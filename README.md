@@ -57,6 +57,11 @@ My current goal is to grow as a **Software Developer** and build strong real-wor
 
 ## `03` Featured Projects
 
+### AWeA — Business Website
+A modern business website with responsive pages for services, company information, approach, insights, contact, growth opportunities and business discussions.
+
+[`View Repository`](https://github.com/ADITHYA-1908/awea-website)
+
 ### Research Conference Management System — RCMS
 A conference management system built around a structured Java/Spring Boot architecture for managing conference workflows and user roles.
 
