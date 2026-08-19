@@ -51,7 +51,7 @@ My current goal is to grow as a **Software Developer** and build strong real-wor
 
 **AI / ML & Tools**
 
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC" /> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
