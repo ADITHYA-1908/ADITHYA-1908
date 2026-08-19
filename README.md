@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=800&size=42&duration=1&pause=999999&color=D4AF37&center=true&vCenter=true&width=780&height=70&lines=M.+ADITHYA+NATARAJAN&repeat=false" alt="M. Adithya Natarajan" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=850&lines=Software+Developer;AI+%26+ML+Enthusiast;Full-Stack+Developer;Python+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=850&lines=Software+Developer;AI+%26+ML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 
 <br/>
 
