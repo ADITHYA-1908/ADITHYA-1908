@@ -33,7 +33,7 @@ My current goal is to grow as a **Software Developer** and build strong real-wor
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=F89820" /> <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 
 <br/>
 
