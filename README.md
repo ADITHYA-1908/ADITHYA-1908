@@ -82,10 +82,6 @@ A conference management system built around a structured Java/Spring Boot archit
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITHYA-1908&theme=radical&hide_border=true&background=000000&ring=D4AF37&fire=F5D67B&currStreakLabel=F5D67B" />
-
-<br/>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADITHYA-1908&theme=react-dark&hide_border=true&bg_color=000000&color=D4AF37&line=B8860B&point=F5D67B" />
 
 </div>
