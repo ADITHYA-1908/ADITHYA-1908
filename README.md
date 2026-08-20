@@ -45,7 +45,7 @@ My current goal is to grow as a **Software Developer** and build strong real-wor
 
 **Backend & Databases**
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
 
 <br/>
 
