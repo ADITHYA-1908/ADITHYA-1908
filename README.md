@@ -1,16 +1,68 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=520&lines=AI+%26+ML+ENTHUSIAST;FULL-STACK+DEVELOPER" alt="Typing SVG" />
+</p>
 
-<!--
-**ADITHYA-1908/ADITHYA-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# M. Adithya Natarajan
 
-Here are some ideas to get you started:
+B.E. Computer Science and Engineering student specializing in **Artificial Intelligence & Machine Learning**.  
+Focused on building practical full-stack applications, backend systems, and AI/ML projects while improving problem-solving and software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 📊 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### AWeA — Business Website
+A modern responsive business website with pages for services, company information, approach, insights, contact, growth opportunities, and business discussions.
+
+[View Repository](https://github.com/ADITHYA-1908/awea-website)
+
+### Research Conference Management System — RCMS
+A conference management system designed for structured conference workflows and role-based user management.
+
+[View Repository](https://github.com/ADITHYA-1908/Research-Conference-Management-System-RCMS)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADITHYA-1908&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITHYA-1908&layout=compact&theme=dark" height="150"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanatarajan07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ADITHYA-1908)
+
+- Open to AI/ML projects, full-stack development, internships, and collaborative opportunities.
