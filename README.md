@@ -51,14 +51,6 @@ A conference management system designed for structured conference workflows and 
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITHYA-1908&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanatarajan07)
