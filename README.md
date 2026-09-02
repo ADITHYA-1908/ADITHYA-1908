@@ -51,11 +51,10 @@ A conference management system designed for structured conference workflows and 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITHYA-1908&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITHYA-1908&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITHYA-1908&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
