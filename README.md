@@ -5,7 +5,7 @@
 # M. Adithya Natarajan
 
 B.E. Computer Science and Engineering student specializing in **Artificial Intelligence & Machine Learning**.  
-Focused on building practical full-stack applications, backend systems, and AI/ML projects while improving problem-solving and software engineering skills.
+I enjoy building practical web and AI-driven applications, working across frontend, backend, and intelligent systems while strengthening my problem-solving and software engineering skills.
 
 ---
 
@@ -18,7 +18,6 @@ Focused on building practical full-stack applications, backend systems, and AI/M
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
@@ -32,22 +31,34 @@ Focused on building practical full-stack applications, backend systems, and AI/M
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+### BidVerify AI — Bid Compliance Platform
+AI-powered procurement compliance platform for document extraction, statutory verification, deterministic compliance checks, scoring, risk assessment, and transparent bid evaluation with human review.
+
+[View Repository](https://github.com/ADITHYA-1908/bid-compliance-platform)
+
+### Research Conference Management System — RCMS
+Conference management platform designed to streamline manuscript submission, reviewer assignment, peer evaluation, scheduling, role-based workflows, and research conference administration.
+
+[View Repository](https://github.com/ADITHYA-1908/Research-Conference-Management-System-RCMS)
+
 ### AWeA — Business Website
-A modern responsive business website with pages for services, company information, approach, insights, contact, growth opportunities, and business discussions.
+Responsive business website designed to present services, company information, business approach, insights, contact options, and growth-focused discussions through a clean web experience.
 
 [View Repository](https://github.com/ADITHYA-1908/awea-website)
 
-### Research Conference Management System — RCMS
-A conference management system designed for structured conference workflows and role-based user management.
+---
 
-[View Repository](https://github.com/ADITHYA-1908/Research-Conference-Management-System-RCMS)
+## 🧠 DSA & Problem Solving
+
+I regularly practice **Data Structures and Algorithms** and maintain my solutions in a dedicated repository, organized by difficulty for easy reference and continuous improvement.
+
+[View LeetCode Solutions](https://github.com/ADITHYA-1908/LeetCode-Solutions)
 
 ---
 
@@ -56,4 +67,4 @@ A conference management system designed for structured conference workflows and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyanatarajan07)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ADITHYA-1908)
 
-- Open to AI/ML projects, full-stack development, internships, and collaborative opportunities.
+Open to **AI/ML projects, full-stack opportunities, internships, and meaningful collaborations**.
