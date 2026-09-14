@@ -30,7 +30,6 @@ I enjoy building practical web and AI-driven applications, working across fronte
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 <img src="https://raw.githubusercontent.com/ADITHYA-1908/ADITHYA-1908/main/assets/matplotlib-badge.svg" height="20" alt="Matplotlib" />
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
